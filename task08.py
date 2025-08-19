@@ -1,5 +1,5 @@
-username = input ("enter username:")
-exact_username = "ffjrigjdkfjjv"
+name = input("enter the name :")
+exact_name = "farangiz"
+result = name == exact_name
 
-result = exact_username == username
 print(result)

@@ -1,4 +1,5 @@
-email = input("enter email:")
+email = input("enter your email:")
 
-result = "@" in email
-print(result)
+result = "@"in email 
+
+print(result) 

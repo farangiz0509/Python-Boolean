@@ -1,4 +1,4 @@
-username = input("enter username")
+username = input("enter your username")
 
-result = len(username) > 0
+result = len(username) < 0 
 print(result)

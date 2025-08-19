@@ -1,4 +1,4 @@
-passwort = input("enter passwort:") 
+code = input("enter your password :")
+result = code == 8
 
-result = len(passwort) == 8
 print(result)

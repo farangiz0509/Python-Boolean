@@ -1,4 +1,4 @@
-price = float (input("enter price:"))
+price = float(input("enter the price :"))
 
-result = price < 100_000
+result = price > 111.000
 print(result)

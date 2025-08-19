@@ -1,4 +1,4 @@
-left_days = 20
+left_days = 30
 
-result = left_days <= 0
-print(result)
+result = left_days <= 1
+print(result) 

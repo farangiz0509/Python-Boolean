@@ -1,4 +1,4 @@
-n = int(input("n = "))
+num =int (input("enter the number:"))
+result = num % 2  == 0
 
-result = n % 2 == 0
 print(result)
