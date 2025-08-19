@@ -1,4 +1,4 @@
 auto_update = True
-mode = "light"
-result = auto_update == True and mode == "light"
+mode = "lights"
+result = auto_update == True and mode == "lights"
 print(result)

@@ -1,3 +1,3 @@
-letter = input ("enter one_letter:")
+letter = input ("enter a letter:")
 result = "A" <= letter <= "z"
 print(result)

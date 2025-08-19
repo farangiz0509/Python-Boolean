@@ -1,4 +1,4 @@
 launguage = input ("enter language:")
-main_language = "uz"
-result = launguage == main_language
+main_languages = "uz"
+result = launguage == main_languages
 print(result)

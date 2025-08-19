@@ -1,5 +1,5 @@
-admin = False
+admin_1 = False
 login = True
 
-result = admin or login
+result = admin_1 or login
 print(result)

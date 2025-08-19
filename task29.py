@@ -1,3 +1,3 @@
 typing = False
-result = typing
-print(result)
+result_1 = typing
+print(result_1)

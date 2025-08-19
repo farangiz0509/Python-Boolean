@@ -1,4 +1,4 @@
-product = True
+products = True
 delivery = True
-result = product and delivery
+result = products and delivery
 print(result)

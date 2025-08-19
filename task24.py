@@ -1,4 +1,4 @@
-admin = True
+admins = True
 login = False
-result = admin and login
+result = admins and login
 print(result)

@@ -1,4 +1,4 @@
-harorat = float(input("haroratni kiriting  : "))
-tekshirish = harorat >= 37.5 and harorat <= 42
+temperature = float(input("enter the temprature  : "))
+checking = temperature >= 37.5 and temperature <= 42
 
-print(tekshirish)
+print(checking)

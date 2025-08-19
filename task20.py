@@ -1,3 +1,3 @@
-users_status = input("enter status:")
-result = users_status == "typing"
+users_statusw = input("enter status:")
+result = users_statusw == "typing"
 print(result)

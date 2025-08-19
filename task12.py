@@ -1,3 +1,3 @@
-stock = int(input ("enter the_name_of_the product:"))
+stock = int(input ("enter the name  o f the product:"))
 result = stock == 0
 print(result)

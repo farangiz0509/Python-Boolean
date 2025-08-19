@@ -1,4 +1,4 @@
-online = True
+onlin = True
 typing = False
-result = online and typing
+result = onlin and typing
 print(result)
