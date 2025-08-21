@@ -1,4 +1,6 @@
-passwords = input("enter password:")
-login = input("enter login:") > 0
-result = len(passwords) > 0
-print(result)
+parol= input("pariolni kiriting   : ")
+login = input("loginni kiriting  : ")
+
+tekshirish = len(parol)>0 and len(login)>0
+
+print(tekshirish)
